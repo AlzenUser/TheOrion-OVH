@@ -20,26 +20,22 @@ Plutôt que de scroller, je préfère passer mon temps à casser (et réparer) m
 
 ## 🛠️ Ce que je maîtrise
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/python-dark.svg" height="40" alt="python logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/html.svg" height="40" alt="html5 logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/css.svg" height="40" alt="css3 logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/linux-dark.svg" height="40" alt="linux logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/debian.svg" height="40" alt="debian logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/ubuntu.svg" height="40" alt="ubuntu logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/windows-dark.svg" height="40" alt="windows logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/proxmox-dark.svg" height="40" alt="proxmox logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/docker.svg" height="40" alt="docker logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/nginx.svg" height="40" alt="nginx logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/cloudflare-dark.svg" height="40" alt="cloudflare logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/php.svg" height="40" alt="php logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/zabbix.svg" height="40" alt="zabbix logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/grafana.svg" height="40" alt="grafana logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/prometheus.svg" height="40" alt="prometheus logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/homeassistant-dark.svg" height="40" alt="homeassistant logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/raspberrypi-dark.svg" height="40" alt="raspberrypi logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/vscode-dark.svg" height="40" alt="vscode logo"  />
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/github-dark.svg" height="40" alt="github logo"  />
+<p align="center">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/windows-dark.svg" height="50" alt="Windows" title="Windows">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/linux-dark.svg" height="50" alt="Linux" title="Linux">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/debian.svg" height="50" alt="Debian" title="Debian">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/ubuntu.svg" height="50" alt="Ubuntu" title="Ubuntu">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/proxmox-dark.svg" height="50" alt="Proxmox" title="Proxmox">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/docker.svg" height="50" alt="Docker" title="Docker">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/vscode-dark.svg" height="50" alt="VS Code" title="VS Code">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/python-dark.svg" height="50" alt="Python" title="Python">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/html.svg" height="50" alt="HTML" title="HTML">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/css.svg" height="50" alt="CSS" title="CSS">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/cloudflare-dark.svg" height="50" alt="Cloudflare" title="Cloudflare">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/nginx.svg" height="50" alt="Nginx" title="Nginx">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/github-dark.svg" height="50" alt="GitHub" title="GitHub">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/zabbix.svg" height="50" alt="Zabbix" title="Zabbix">
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/raspberrypi-dark.svg" height="50" alt="Raspberry Pi" title="Raspberry Pi">
 </p>
 
 ---
@@ -63,9 +59,9 @@ Plutôt que de scroller, je préfère passer mon temps à casser (et réparer) m
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevGeekos&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOrion-OVH&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGeekos&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrion-OVH&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGeekos&theme=tokyonight" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheOrion-OVH&theme=tokyonight" alt="Streak Stats">
 </p>
