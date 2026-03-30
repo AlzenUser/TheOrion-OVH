@@ -59,9 +59,9 @@ Plutôt que de scroller, je préfère passer mon temps à casser (et réparer) m
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheOrion-OVH&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOrion-OVH&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Stats GitHub">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrion-OVH&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrion-OVH&layout=compact&theme=tokyonight&hide_langs_below=1&cache_seconds=1800" alt="Top Langs">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheOrion-OVH&theme=tokyonight" alt="Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=TheOrion-OVH&theme=tokyonight" alt="Streak Stats">
 </p>
